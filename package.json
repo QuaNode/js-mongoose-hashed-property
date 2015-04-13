@@ -9,7 +9,7 @@
 		"type": "git",
 		"url": "git@github.com:digitaledgeit/js-mongoose-hashed-property.git"
 	},
-  "peerDependencies": {
+  "dependencies": {
     "mongoose": "3.x"
   }
 }
